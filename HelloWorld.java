@@ -1,0 +1,27 @@
+package ver1;
+
+ 
+
+/** 
+
+ * Represents a baskeball playerZZZ 
+
+ * 
+
+ */ 
+
+public class BasketballPlayer { 
+public class HelloWorld {
+    public static void heyNow() {
+        String Msg = "Hey Now!";
+        System.out.println(Msg);
+    }
+    public static void whatFor() {
+        String msg = "What For?";
+        System.out.println(msg);
+    }
+    public static void main(String[] args){
+        System.out.println("Hello from Eclipse");
+        System.out.println("Dave is working locally on his branch");
+    }
+}
