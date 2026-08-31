@@ -1,14 +1,5 @@
 package ver1;
 
- 
-
-/** 
-
- * Represents a baskeball playerZZZ 
-
- * 
-
- */ 
 
 public class BasketballPlayer { 
 public class HelloWorld {
